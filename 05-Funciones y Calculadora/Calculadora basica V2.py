@@ -23,5 +23,3 @@ else:
     resultado="Opcion invalida."
 
 print(f"El resultado es: {resultado}")        
-
-
